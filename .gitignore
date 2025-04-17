@@ -1,0 +1,6 @@
+dist/
+pineaoth/
+pineaoth.egg-info/
+test/
+MANIFEST.in
+pyproject.toml
